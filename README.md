@@ -18,3 +18,5 @@
  - https://nodejs.dev/learn/javascript-asynchronous-programming-and-callbacks
  - https://nodejs.dev/learn/understanding-javascript-promises
  - https://nodejs.dev/learn/modern-asynchronous-javascript-with-async-and-await
+5. Javascript closure, currying, hoisting
+ - https://anonystick.com/blog-developer/discuss-about-closures-in-javascript-2019051695927961
