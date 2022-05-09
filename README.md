@@ -13,3 +13,8 @@
 3. Blocking and Non-Blocking
  - https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/
  - https://dev.to/arnaldobadin/nodejs-non-blocking-processing-k5i
+4. Asynchronous Programming (Callback, Promise, async await )
+ - https://dev.to/ngnijland/run-asynchronous-tasks-in-batches-in-nodejs-599a
+ - https://nodejs.dev/learn/javascript-asynchronous-programming-and-callbacks
+ - https://nodejs.dev/learn/understanding-javascript-promises
+ - https://nodejs.dev/learn/modern-asynchronous-javascript-with-async-and-await
